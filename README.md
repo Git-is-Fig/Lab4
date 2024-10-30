@@ -1,1 +1,1 @@
-# Made by Kostia Khokhlov
+# Humanoid
